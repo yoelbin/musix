@@ -1,0 +1,112 @@
+/* _________________________Main_________________________ */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Exo 2", sans-serif;
+}
+
+body {
+  background: #436f8a;
+  background-image: url("https://www.transparenttextures.com/patterns/clean-gray-paper.png");
+}
+
+h3 {
+  font-family: "Exo 2", sans-serif;
+}
+
+/* _________________________Header_________________________ */
+
+Header {
+  font-family: "Courgette", cursive;
+  font-size: 36px;
+  font-weight: 100;
+  text-align: center;
+  color: #f7fbe1;
+  margin-top: 20px;
+}
+
+/* _________________________Navbar_________________________ */
+
+.nav {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+.link {
+  color: #f7fbe1;
+  text-decoration: none;
+  margin: 10px 40px;
+  font-size: 45px;
+  font-weight: 300;
+}
+
+.link:hover {
+  text-decoration: none;
+}
+
+/* _________________________Footer_________________________ */
+
+footer {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  height: 2.5rem;
+  background-color: #f7fbe1;
+  opacity: 0.5;
+}
+
+footer p {
+  color: #436f8a;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Gamja Flower", cursive;
+  font-size: 30px;
+}
+
+/* _________________________Drumset_________________________ */
+
+.drums {
+  margin: 30px 200px;
+}
+.drumpad-img {
+  width: 100%;
+  height: 100%;
+}
+.drumpad {
+  border: 10px solid #404b69;
+  border-radius: 15px;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin: 0 10px;
+  background-color: rgb(132, 161, 223);
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #dbedf3;
+  opacity: 0.5;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.pad-letter {
+  font-size: 30px;
+  font-weight: 700;
+  background-color: #404b69;
+  border-radius: 10px;
+  color: #dbedf3;
+  padding: 3px;
+  width: 20%;
+  margin: 20px auto 5px;
+  font-family: "Exo 2", sans-serif;
+}

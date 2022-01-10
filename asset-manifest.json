@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Musix/static/js/main.1f7a9980.chunk.js",
+    "main.js.map": "/Musix/static/js/main.1f7a9980.chunk.js.map",
+    "runtime-main.js": "/Musix/static/js/runtime-main.c72f0ffe.js",
+    "runtime-main.js.map": "/Musix/static/js/runtime-main.c72f0ffe.js.map",
+    "static/js/2.c01582d9.chunk.js": "/Musix/static/js/2.c01582d9.chunk.js",
+    "static/js/2.c01582d9.chunk.js.map": "/Musix/static/js/2.c01582d9.chunk.js.map",
+    "index.html": "/Musix/index.html",
+    "precache-manifest.38cb5093ae065c2631faeada276b1ad1.js": "/Musix/precache-manifest.38cb5093ae065c2631faeada276b1ad1.js",
+    "service-worker.js": "/Musix/service-worker.js",
+    "static/js/2.c01582d9.chunk.js.LICENSE.txt": "/Musix/static/js/2.c01582d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c72f0ffe.js",
+    "static/js/2.c01582d9.chunk.js",
+    "static/js/main.1f7a9980.chunk.js"
+  ]
+}
